@@ -1,4 +1,4 @@
-# Duck Editor
+# Duck Sprite Editor
 
 A pixel-art editor for designing 8×8 / 16×16 animated ducks and exporting them as sprite sheets for Unity.
 Built with Vite, React, TypeScript and Zustand. It runs entirely in the browser; no backend needed.
