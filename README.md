@@ -3,8 +3,6 @@
 A pixel-art editor for designing 8×8 / 16×16 animated ducks and exporting them as sprite sheets for Unity.
 Built with Vite, React, TypeScript and Zustand. It runs entirely in the browser; no backend needed.
 
-Originally made for the Unity game *Ducks Sports*.
-
 ## Repository layout
 
 | Folder   | Contents                                                              |
@@ -25,8 +23,6 @@ cd app
 npm install
 npm run dev
 ```
-
-Then open <http://localhost:5173>.
 
 ## Other commands
 
